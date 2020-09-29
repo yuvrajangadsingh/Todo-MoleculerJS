@@ -1,0 +1,9 @@
+{
+  "todo-service": {
+    "username": "root",
+    "password": "8989",
+    "database": "todo_moleculer",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
